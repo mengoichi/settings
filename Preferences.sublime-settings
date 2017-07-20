@@ -1,0 +1,29 @@
+{
+  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+  "font_face": "Source Code Pro Light",
+  "font_size": 18,
+  "theme": "Spacegray Eighties.sublime-theme",
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "show_definitions": false,
+  "spacegray_fileicons": true,
+  "detect_indentation": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "caret_style": "phase",
+  "caret_extra_width": 8,
+  "wrap_width": 130,
+  "highlight_line": true,
+  "fade_fold_buttons": false,
+  "draw_white_space": "all",
+  "scroll_past_end": true,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+  "find_selected_text": true,
+  "show_encoding": true,
+  "show_full_path": true,
+  "draw_minimap_border": true,
+  "always_show_minimap_viewport": true,
+}
